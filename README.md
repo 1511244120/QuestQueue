@@ -5,22 +5,21 @@ How to run the project
 
 Clone the repository to your local computer:
 
-git clone https://github.com/1511244120/QuestQueue.git
+<b>git clone https://github.com/1511244120/QuestQueue.git</b>
 
 Change to the project:
 
-cd QuestQueue
+cd QuestQueue</b>
 
 Install the dependencies:
 
-git install
+<b>npm install</b>
 
 Start the project:
 
-npm start
+<b>npm start</b>
 
 Then test the project out, happy coding!
-
 
 
 some notes when using react with best practice:
