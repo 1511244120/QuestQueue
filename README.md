@@ -9,7 +9,7 @@ Clone the repository to your local computer:
 
 Change to the project:
 
-cd QuestQueue</b>
+<b>cd QuestQueue</b>
 
 Install the dependencies:
 
