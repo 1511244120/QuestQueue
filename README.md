@@ -32,6 +32,7 @@ parent-child component communication:
 
 - defaultChecked on executed at the first time
 - state and the method to operate the state should be at the same place
+  
 某一个组件使用，放在自身的state中
 某些组件使用，放在他们共同的父组件state种
 
