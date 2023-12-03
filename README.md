@@ -3,22 +3,22 @@ QuestQueue is a powerful and intuitive to-do list application built using React 
 
 ## How to run the project
 
-Clone the repository to your local computer:
-
-<b>git clone https://github.com/1511244120/QuestQueue.git</b>
-
-Change to the project:
-
-<b>cd QuestQueue</b>
-
-Install the dependencies:
-
-<b>npm install</b>
-
-Start the project:
-
-<b>npm start</b>
-
+**Clone the repository to your local computer:**
+``` bash
+$ git clone https://github.com/1511244120/QuestQueue.git
+```
+**Change to the project:**
+``` bash
+$ cd QuestQueue
+```
+**Install the dependencies:**
+``` bash
+$ npm install
+```
+**Start the project:**
+``` bash
+$ npm start
+```
 Then test the project out, happy coding!
 
 ---
@@ -31,7 +31,7 @@ parent-child component communication:
 - if information is shared by multiple states, put it inside their shared parent's state
 
 - defaultChecked on executed at the first time
--state and the method to operate the state should be at the same place
+- state and the method to operate the state should be at the same place
 某一个组件使用，放在自身的state中
 某些组件使用，放在他们共同的父组件state种
 
