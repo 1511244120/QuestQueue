@@ -1,7 +1,7 @@
 # QuestQueue
 QuestQueue is a powerful and intuitive to-do list application built using React Native. It offers a seamless and efficient way to manage your tasks, whether they're daily errands, work-related assignments, or personal goals. With QuestQueue, you can easily add new tasks, mark them as completed, and remove tasks that are no longer needed.
 
-How to run the project
+##How to run the project
 
 Clone the repository to your local computer:
 
@@ -21,7 +21,7 @@ Start the project:
 
 Then test the project out, happy coding!
 
-
+---
 some notes when using react with best practice:
 parent child component communication: 
 parent -> child using props
