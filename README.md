@@ -22,17 +22,16 @@ Start the project:
 Then test the project out, happy coding!
 
 ---
-some notes when using react with best practice:
-parent child component communication: 
-parent -> child using props
-child -> parent using state, put inside parent's state, required a function to pass to child in inadvance
+some notes when using react with best practice:<br>
+parent-child component communication: 
+- parent -> child using props
+- child -> parent using state, put inside parent's state, required a function to pass to child in advance
 
-if information only used by one component, put it inside that component's state
-if information is shared by multiple states, put it inside their shared parent's state
+- if information is only used by one component, put it inside that component's state
+- if information is shared by multiple states, put it inside their shared parent's state
 
-defaultChecked on executed at first time
-
-state and the method to operate the state should be at same place
+- defaultChecked on executed at the first time
+-state and the method to operate the state should be at the same place
 某一个组件使用，放在自身的state中
 某些组件使用，放在他们共同的父组件state种
 
